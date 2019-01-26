@@ -28,7 +28,7 @@ find_package (Threads REQUIRED)
 
 configure_file (version.hpp.in version.hpp)
 
-set (CMAKE_VERBOSE_MAKEFILE ON)
+set (CMAKE_VERBOSE_MAKEFILE OFF)
 
 # Working stuff
 add_subdirectory (lib)
