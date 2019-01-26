@@ -1,2 +1,2 @@
 # tuple
-Limited and simple tuple implementation
+Limited and simple tuple implementation.
