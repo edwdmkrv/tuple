@@ -3,7 +3,7 @@ cmake_minimum_required (VERSION 3.6)
 project ("tuple_tst"
 	VERSION "0.0.${TRAVIS_BUILD_NUMBER}"
 	DESCRIPTION "Simple tuple implementation test"
-	HOMEPAGE_URL "https://github.com"
+	HOMEPAGE_URL "https://github.com/edwdmkrv/tuple/tree/master/tst"
 	LANGUAGES CXX
 )
 

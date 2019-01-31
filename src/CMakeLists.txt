@@ -3,7 +3,7 @@ cmake_minimum_required (VERSION 3.6)
 project ("tuple_src"
 	VERSION "0.0.${TRAVIS_BUILD_NUMBER}"
 	DESCRIPTION "Simple tuple implementation sources"
-	HOMEPAGE_URL "https://github.com"
+	HOMEPAGE_URL "https://github.com/edwdmkrv/tuple/tree/master/src"
 	LANGUAGES CXX
 )
 
